@@ -1,6 +1,6 @@
 # windows-background-processes-QoS
 
-This scripts tries to emulate Apple's M1 QoS on Windows 10.
+This script tries to emulate Apple's M1 QoS on Windows 10.
 
 More info at: [Apple’s M1 is a fast CPU—but M1 Macs feel even faster due to QoS](https://arstechnica.com/gadgets/2021/05/apples-m1-is-a-fast-cpu-but-m1-macs-feel-even-faster-due-to-qos/)
 
